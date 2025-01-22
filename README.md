@@ -1,0 +1,1 @@
+# sql-delete-all-table-data-query-with-reference
